@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Eastern Development 
 
-You can use the [editor on GitHub](https://github.com/jiuxin77/jiuxin77x.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This development project will be completed in 2023.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Applicable to residential buildings.
 
-### Markdown
+### Good location
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In 2024, the government will build a high-speed rail station. Buildings in this area are easily accessible.
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### Support or Contact
 
 - Bulleted
 - List
@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having Queations? Please contact 425-346-6143.
