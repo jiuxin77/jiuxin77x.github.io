@@ -11,8 +11,8 @@ In 2024, the government will build a high-speed rail station. Buildings in this 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Location
+## Principal
 ### Support or Contact
 
 - Bulleted
@@ -26,11 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+15905 Meadow Road Lynnwood, WA 98087
 
-### Jekyll Themes
+### Principal
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiuxin77/jiuxin77x.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Main person in charge: Bendong Xiao&Xiaohong Zhu
 
 ### Support or Contact
 
